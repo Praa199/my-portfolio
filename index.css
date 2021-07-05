@@ -1,14 +1,18 @@
-.container{
-    height: 100vh;
-    width: 100vw;
+.container {
+  height: 100vh;
+  width: 100vw;
 }
 
-.dev-image-container{
-    display: flex;
-    justify-content: center;
+.dev-image-container {
+  display: flex;
+  justify-content: center;
 }
 
-img{
-    width: 15%;
-    border-radius: 50%;
+.dev-image {
+  width: 30%;
+  border-radius: 50%;
+}
+.contact-container {
+  display: flex;
+  flex-direction: column;
 }
