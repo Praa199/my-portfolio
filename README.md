@@ -26,7 +26,7 @@
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Portfolio</h3>
+<h3 align="center">Personal Portfolio</h3>
 
   <p align="center">
     Static website to showcase personal projects.
@@ -34,6 +34,7 @@
     <a href="https://github.com/Praa199?tab=repositories"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    ·
     <a href="https://praa199.github.io/my-portfolio/">View Demo</a>
     ·
   </p>
@@ -63,8 +64,6 @@
 
 [![Portfolio Screen Shot][product-screenshot]](https://praa199.github.io/my-portfolio/)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Praa199`, `my-portfolio`, `https://www.linkedin.com/in/aldo-pena/`, `My Portfolio`, `project_description`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -86,22 +85,25 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - [x] Landing page
 
   - [x] Enter Button
-  - [] Leave Button
+  - [x] Leave Button
 
 - [x] Mi Budget page
 
   - [x] slides gallery
-  - [] links under gallery
+  - [x] links under gallery
+  - [x] description
 
 - [x] Jhobby page
 
   - [x] slides gallery
-  - [] links under gallery
+  - [x] links under gallery
+  - [x] description
 
 - [x] Moon Rover page
 
   - [x] slides gallery
-  - [] links under gallery
+  - [x] links under gallery
+  - [x] description
 
 - [x] Contact page
 
@@ -118,7 +120,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ## Contact
 
-Your Name - [LinkedIn](https://www.linkedin.com/in/aldo-pena/) - aldo.pena.93@hotmail.com
+Contact Me - [LinkedIn](https://www.linkedin.com/in/aldo-pena/) - aldo.pena.93@hotmail.com
 
 Project Link: [https://github.com/Praa199/my-portfolio](https://github.com/Praa199/my-portfolio)
 
