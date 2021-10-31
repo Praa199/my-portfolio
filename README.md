@@ -7,8 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -20,7 +18,6 @@
 
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -42,8 +39,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -62,9 +57,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Portfolio Screen Shot][product-screenshot]](https://praa199.github.io/my-portfolio/)
@@ -73,52 +67,55 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [HTML](https://www.ecosia.org/search?q=html&addon=opensearch)
-* [CSS](https://www.ecosia.org/search?q=css)
-* [Bootstrap](https://getbootstrap.com)
-
+- [HTML](https://www.ecosia.org/search?q=html&addon=opensearch)
+- [CSS](https://www.ecosia.org/search?q=css)
+- [Bootstrap](https://getbootstrap.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [x] MVP
-    - [x] Responsive
+
+  - [x] Responsive
 
 - [x] Landing page
-    - [x] Enter Button
-    - [] Leave Button
+
+  - [x] Enter Button
+  - [] Leave Button
 
 - [x] Mi Budget page
-    - [x] slides gallery
-    - [] links under gallery
+
+  - [x] slides gallery
+  - [] links under gallery
 
 - [x] Jhobby page
-    - [x] slides gallery
-    - [] links under gallery
+
+  - [x] slides gallery
+  - [] links under gallery
 
 - [x] Moon Rover page
-    - [x] slides gallery
-    - [] links under gallery
+
+  - [x] slides gallery
+  - [] links under gallery
 
 - [x] Contact page
 
 - [x] Navbar in all pages
-    - [x] static routing
+
+  - [x] static routing
 
 - [] Light/ Dark switch
 - [] Language Toggle
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name - [LinkedIn](https://www.linkedin.com/in/aldo-pena/) - aldo.pena.93@hotmail.com
@@ -127,20 +124,18 @@ Project Link: [https://github.com/Praa199/my-portfolio](https://github.com/Praa1
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Images](https://unsplash.com/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
+- [Images](https://unsplash.com/)
+- [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [stars-shield]: https://img.shields.io/github/stars/Praa199/my-portfolio.svg?style=for-the-badge
 [stars-url]: https://github.com/Praa199/my-portfolio/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
